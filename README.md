@@ -1,0 +1,1 @@
+https://tech.serhatteker.com/post/2020-01/email-as-username-django/
